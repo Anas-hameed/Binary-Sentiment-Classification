@@ -1,5 +1,5 @@
 # Binary-Sentiment-Classification
-In this, we will fine tune a pretrained for binary sentiment classification using a stanford movie dataset 
+In this, we will fine tune a pretrained for binary sentiment classification using a stanford movie review dataset 
 
 dataset_url: http://ai.stanford.edu/~amaas/data/sentiment/
 
